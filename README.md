@@ -21,4 +21,4 @@ By Default, the script is set to update the Pi at midnight on sundays. So anytim
 the rest.  Instructions to change the day and time are found in the Auto_update.rb script
 
 to modify day and time:
-nano Auto_update.rb
+nano /home/pi/pi_auto_update/Auto_update.rb
