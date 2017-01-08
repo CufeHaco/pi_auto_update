@@ -4,7 +4,8 @@ Auto_update.rb was written by Troy B. Mallory on Jan 8, 2017
 
 INSTRUCTIONS:
 after cloning, nano /etc/rc.local and add
-ruby /home/pi/Auto_update.rb &
+ruby 'home/pi/pi_auto_update/Auto_update.rb' &
+
 
 HOW IT WORKS:
 Auto _update will work when the specifyed day and time and the pi is in the main CLI.
