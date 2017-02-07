@@ -1,4 +1,7 @@
 # pi_auto_update
+this script is designed for the wiring diagram shown here, and is for using ruby rather than the python script.
+https://hackernoon.com/how-to-control-a-fan-to-cool-the-cpu-of-your-raspberrypi-3313b6e7f92c#.3yzozng2x
+
 This script is to automate the RPI update process for arcade, retropie, media center builds.  but will work for any rpi project
 Auto_update.rb was written by Troy B. Mallory on Jan 8, 2017
 
